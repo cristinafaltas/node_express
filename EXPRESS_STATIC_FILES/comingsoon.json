@@ -1,0 +1,58 @@
+ {
+    "listafilm": [
+        {"#": "1",
+         "Titolo": "Black Widow",
+         "Anno di uscita" : "2021"        
+        },
+        {"#": "2",
+         "Titolo": "Shang-Chi e la leggenda dei dieci cerchi",
+         "Anno di uscita" : "2021"        
+        },
+        {"#": "3",
+         "Titolo": "Gli Eterni",
+         "Anno di uscita" : "2021"        
+        },
+        {"#": "4",
+         "Titolo": " Spider-Man: No Way Home",
+         "Anno di uscita" : "2021"        
+        },
+        {"#": "5",
+         "Titolo": "Doctor Strange and the Multiverse of Madness",
+         "Anno di uscita" : "2022"        
+        },
+        {"#": "6",
+         "Titolo": "Thor: Love and Thunder",
+         "Anno di uscita" : "2022"        
+        },
+        {"#": "7",
+         "Titolo": "Black Panther 2",
+         "Anno di uscita" : "2022"        
+        },
+        {"#": "8",
+         "Titolo": "The Marvels",
+         "Anno di uscita" : "2022"        
+        },
+        {"#": "9",
+         "Titolo": "Ant-Man and the Wasp: Quantumania",
+         "Anno di uscita" : "2023"        
+        },
+        {"#": "10",
+         "Titolo": "Guardiani della Galassia Vol. 3",
+         "Anno di uscita" : "2023"        
+        },
+        {"#": "11",
+         "Titolo": "Fantastici 4",
+         "Anno di uscita" : "2023"        
+        },
+
+        {"#": "12",
+         "Titolo": "Blade",
+         "Anno di uscita" : "2023"        
+        },
+
+        {"#": "13",
+         "Titolo": "Captain America 4",
+         "Anno di uscita" : "2023"        
+        }
+    ]
+}
